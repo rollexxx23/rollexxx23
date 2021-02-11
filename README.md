@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Undergrad . </h3>
 <hr>
 <a href="https://youtu.be/dQw4w9WgXcQ">
-<img src="https://github.com/rollexxx23/rollexxx23/blob/main/0001.jpg?raw=true" width="400" height="400" align="center"/>
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 </a>
 
 
