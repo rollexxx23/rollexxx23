@@ -36,3 +36,8 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rollexxx23&show_icons=true&locale=en&layout=compact" height="195" width="495" alt="arin_chatterjee" /></p>
+
