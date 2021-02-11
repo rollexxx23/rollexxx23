@@ -39,5 +39,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rollexxx23&show_icons=true&locale=en&layout=compact" height="195" width="495" alt="arin_chatterjee" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rollexxx23&theme=dark&show_icons=true" height="195" width="495" alt="arin_chatterjee" /></p>
 
