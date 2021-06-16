@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **NODE JS , REACT NATIVE , GRAPHQL , SOLIDITY**
+- 🌱 I’m currently learning **NODE JS, REACT NATIVE, GRAPHQL, SOLIDITY**
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Arin Chatterjee](https://www.linkedin.com/in/arin-chatterjee-b2a96a170/) **
 
